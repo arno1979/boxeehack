@@ -51,7 +51,7 @@ Installing is very simple. Get a USB stick and format it (FAT32). Name the new v
   - uninstall.sh
   - support
 
-Because the resource meant for downloading the latest boxeehack version (boxeed.in) during install is not availaible anymore, also copy the "hack" folder to the root of the USB stick. It will then automatically be used as source for the hack.
+Because the resource meant for downloading the latest boxeehack version (boxeed.in) during install is not available anymore, also copy the "hack" folder to the root of the USB stick. It will then automatically be used as source for the hack.
 
 Insert the USB stick into one of the USB slots of the BoxeeBox.
 
